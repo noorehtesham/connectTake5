@@ -36,7 +36,7 @@ GEM
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
     jekyll-swiss (1.0.0)
-<<<<<<< HEAD
+
     jekyll-theme-architect (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -85,8 +85,7 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-titles-from-headings (0.5.3)
       jekyll (>= 3.3, < 5.0)
-=======
->>>>>>> parent of f076b26... theme
+
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.1.0)
@@ -124,19 +123,23 @@ GEM
 PLATFORMS
   ruby
 
-DEPENDENCIES
-<<<<<<< HEAD
+
   github-pages
   jekyll
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-theme-basically-basic
-=======
+
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
   jekyll-swiss (~> 1.0)
->>>>>>> parent of f076b26... theme
+parent of f076b26
+
+  jekyll (~> 4.0.0)
+  jekyll-feed (~> 0.12)
+  jekyll-swiss (~> 1.0)
+parent of f076b26
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
