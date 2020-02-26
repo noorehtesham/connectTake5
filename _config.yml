@@ -27,11 +27,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 remote_theme: thelehhman/texture
-theme: jekyll-text-them
+theme: jekyll-theme-basically-basic
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
