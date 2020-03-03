@@ -26,8 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noorehtesham.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-remote_theme: thelehhman/texture
-theme: jekyll-theme-minimal
+
+
 # Build settings
 
 plugins:
@@ -38,7 +38,7 @@ plugins:
   - jekyll-paginate
 
 
-remote_theme: broccolini/swiss
+
 
 
 
@@ -69,3 +69,6 @@ defaults:
 
     include:
     - _static
+
+plugins:
+  - jekyll-environment-variables

@@ -31,4 +31,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "jekyll-last-modified-at"
-gem "bulma-clean-theme"
+gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-environment-variables'
