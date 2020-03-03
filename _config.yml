@@ -27,7 +27,7 @@ url: "https://noorehtesham.github.io" # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 remote_theme: thelehhman/texture
-theme: bulma-clean-theme
+theme: jekyll-theme-minimal
 # Build settings
 
 plugins:
